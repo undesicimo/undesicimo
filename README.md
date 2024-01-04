@@ -1,5 +1,7 @@
 <h3 align="center">Software Developer in Test</h3>
 
+ ### [Personal project kanban](https://faceted-cabin-1b2.notion.site/Projects-Tasks-83be11bc9858426b9b3da5dba2b2a7b1?pvs=4) 👈📒
+
 
 <p align="left">
 </p>
