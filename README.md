@@ -1,6 +1,9 @@
-<h3 align="center">Web dev</h3>
+<h3 align="center">Everything Web Development and Testing</h3>
 
- ### [Personal projects kanban](https://mylifeasjosh.notion.site/Projects-Tasks-83be11bc9858426b9b3da5dba2b2a7b1) 👈📒
+
+### [Zenn publication](https://zenn.dev/mylifeasjosh) 📘
+[![Articles](https://badgen.org/img/zenn/mylifeasjosh/articles?style=for-the-badge)](https://zenn.dev/mylifeasjosh) [![Likes](https://badgen.org/img/zenn/mylifeasjosh/likes?style=for-the-badge)](https://zenn.dev/mylifeasjosh)
+### [Personal projects kanban](https://mylifeasjosh.notion.site/Projects-Tasks-83be11bc9858426b9b3da5dba2b2a7b1) 👈📒
 
 
 <p align="left">
