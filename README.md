@@ -2,5 +2,3 @@
 [![Articles](https://badgen.org/img/zenn/mylifeasjosh/articles?style=for-the-badge)](https://zenn.dev/mylifeasjosh) [![Likes](https://badgen.org/img/zenn/mylifeasjosh/likes?style=for-the-badge)](https://zenn.dev/mylifeasjosh)
 <br />
 
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=undesicimo)](https://github.com/anuraghazra/github-readme-stats)
